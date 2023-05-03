@@ -214,7 +214,7 @@ body {
     width: 100%;
     height: 100%;
 
-    background: url("/images/backgrounds/intro_img.png") center no-repeat;
+    background: url("../images/backgrounds/intro_img.png") center no-repeat;
     background-size: cover;
 }
 
@@ -327,7 +327,7 @@ body {
     height: 100%;
     padding-bottom: 50px;
 
-    background: url("/images/backgrounds/first_back.png") center no-repeat;
+    background: url("../images/backgrounds/first_back.png") center no-repeat;
     background-size: cover;
 }
 
@@ -495,7 +495,7 @@ body {
     width: 100%;
     padding-bottom: 100px;
 
-    background: url("/images/backgrounds/second_back.png") center no-repeat;
+    background: url("../images/backgrounds/second_back.png") center no-repeat;
     background-size: cover;
 }
 
@@ -559,47 +559,47 @@ body {
 }
 
 .first_subject {
-    background: url("/images/subjects/math.jpg") center no-repeat;
+    background: url("../images/subjects/math.jpg") center no-repeat;
     background-size: cover;
 }
 
 .second_subject {
-    background: url("/images/subjects/english.jpg") center no-repeat;
+    background: url("../images/subjects/english.jpg") center no-repeat;
     background-size: cover;
 }
 
 .third_subject {
-    background: url("/images/subjects/history.jpg") center no-repeat;
+    background: url("../images/subjects/history.jpg") center no-repeat;
     background-size: cover;
 }
 
 .fourth_subject {
-    background: url("/images/subjects/preschool.jpg") center no-repeat;
+    background: url("../images/subjects/preschool.jpg") center no-repeat;
     background-size: cover;
 }
 
 .fifth_subject {
-    background: url("/images/subjects/ukraine_lang.jpg") center no-repeat;
+    background: url("../images/subjects/ukraine_lang.jpg") center no-repeat;
     background-size: cover;
 }
 
 .sixth_subject {
-    background: url("/images/subjects/ukraine_litr.jpg") center no-repeat;
+    background: url("../images/subjects/ukraine_litr.jpg") center no-repeat;
     background-size: cover;
 }
 
 .seventh_subject {
-    background: url("/images/subjects/physics.jpg") center no-repeat;
+    background: url("../images/subjects/physics.jpg") center no-repeat;
     background-size: cover;
 }
 
 .eighth_subject {
-    background: url("/images/subjects/chemistry.jpg") center no-repeat;
+    background: url("../images/subjects/chemistry.jpg") center no-repeat;
     background-size: cover;
 }
 
 .ninth_subject {
-    background: url("/images/subjects/geography.jpg") center no-repeat;
+    background: url("../images/subjects/geography.jpg") center no-repeat;
     background-size: cover;
 }
 
@@ -657,7 +657,7 @@ body {
     width: 100%;
     height: 700px;
 
-    background: url("/images/backgrounds/first_back.png") center no-repeat;
+    background: url("../images/backgrounds/first_back.png") center no-repeat;
     background-size: cover;
 }
 
@@ -848,7 +848,7 @@ body {
     height: 100%;
     padding-bottom: 250px;
 
-    background: url("/images/backgrounds/second_back.png") center no-repeat;
+    background: url("../images/backgrounds/second_back.png") center no-repeat;
     background-size: cover;
 }
 
@@ -984,7 +984,7 @@ body {
     height: 100%;
     padding-bottom: 50px;
 
-    background: url("/images/backgrounds/intro_img.png") center no-repeat;
+    background: url("../images/backgrounds/intro_img.png") center no-repeat;
     background-size: cover;
 }
 
